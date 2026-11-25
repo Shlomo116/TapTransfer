@@ -98,3 +98,9 @@
 - [אנדרואיד — Wi-Fi Aware](https://developer.android.com/develop/connectivity/wifi/wifi-aware)
 - [חלונות — Wi-Fi Direct](https://learn.microsoft.com/en-us/windows/win32/nativewifi/using-the-wi-fi-direct-api)
 - [אפל — חיבורי רשת](https://developer.apple.com/documentation/technotes/tn3111-ios-wifi-api-overview) · [תגי NFC](https://developer.apple.com/documentation/corenfc)
+
+
+## גילוי מכשירים ואנשי קשר
+
+- [גילוי לפי מיקום משוער](https://github.com/Shlomo116/TapTransfer/issues/12) יאפשר לסנן מכשירים זמינים לפי קרבה במהלך שיתוף. המשתמשים יבחרו אם לשתף מיקום, והמסך יציין מתי הדיוק אינו מספיק.
+- [זיהוי אנשי קשר ובחירת נראות](https://github.com/Shlomo116/TapTransfer/issues/13) יאפשר להציג מכשירים מאומתים בשם השמור באנשי הקשר, לסנן נמענים ולבחור מי יוכל לגלות את המכשיר. כל העברה תחייב אישור של המקבל.
